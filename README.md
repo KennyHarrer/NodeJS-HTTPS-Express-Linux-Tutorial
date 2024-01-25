@@ -104,6 +104,8 @@ With this final step, your Node.js server on Arch Linux should now be fully set 
 
 3. Run your Node.js server with the updated configuration to ensure it uses the SSL certificates.
 
+4. You can use [PM2](https://www.npmjs.com/package/pm2) to automatically start/restart your application.
+
 ---
 
 By following these steps, you should have a Node.js server running on Arch Linux with SSL encryption using Certbot.
