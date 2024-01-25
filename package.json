@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-https-express-linux-tutorial",
+  "version": "1.0.0",
+  "description": "This guide provides a step-by-step tutorial for setting up a Node.js server with SSL using Certbot on Arch Linux.",
+  "main": "example-https.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
